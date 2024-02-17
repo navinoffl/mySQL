@@ -1,0 +1,10 @@
+use dummy
+create table teacher (
+  name varchar(100)
+  age int,
+  salary int,
+  department varchar(100)
+  )
+
+Alter table teacher Add column degree varchar(100)
+
