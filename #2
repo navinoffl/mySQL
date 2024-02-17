@@ -1,6 +1,6 @@
 use dummy
 create table teacher (
-  name varchar(100)
+  name varchar(100),
   age int,
   salary int,
   department varchar(100)
